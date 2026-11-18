@@ -1,0 +1,23 @@
+# Ren'Py generated files
+*.rpyc
+*.rpymc
+*.rpyb
+game/cache/
+game/saves/
+log.txt
+traceback.txt
+errors.txt
+
+# Built game (upload builds to GitHub Releases instead)
+renpy/
+lib/
+*.app/
+*.exe
+UnderPaleStreetlights.py
+UnderPaleStreetlights.sh
+*-dists/
+
+# System files
+desktop.ini
+Thumbs.db
+.DS_Store
