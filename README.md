@@ -19,4 +19,4 @@ The code and scripts are released under the [MIT License](LICENSE).
 (`game/dementia.mp3`, `game/for game.ogg`) belong to their respective
 creators and may not be reused, redistributed or modified outside this game.
 
-Music by [inesura](https://open.spotify.com/artist/6U2FHPm1qJvrHRlJWKyPSb).
+dementia.mp3 is by [inesura](https://open.spotify.com/artist/6U2FHPm1qJvrHRlJWKyPSb), for game.ogg is by me
